@@ -1,0 +1,6 @@
+CPU: 12th Gen Intel(R) Core(TM) i5-12450HX (8 cores/12 threads)
+RAM: 12GB DDR5
+OS : Windows 11
+
+
+
