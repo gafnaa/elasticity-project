@@ -4,4 +4,4 @@ Request Berhasil   : 300
 Request Gagal      : 0
 Average Latency    : 2.0571 sec
 Throughput         : 2.43 req/sec
-Total Waktu Test   : 123.63 sec
+Total Waktu Test   : 123.63 sec.
