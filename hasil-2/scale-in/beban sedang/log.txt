@@ -1,0 +1,7 @@
+===== HASIL LOAD TEST =====
+Total Request      : 200
+Request Berhasil   : 200
+Request Gagal      : 0
+Average Latency    : 2.0613 sec
+Throughput         : 1.94 req/sec
+Total Waktu Test   : 103.18 sec
